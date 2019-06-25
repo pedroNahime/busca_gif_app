@@ -1,6 +1,6 @@
 # Busca_gif_app
 
-App Simples para buscar gifs
+App Simples feito em flutter para buscar gifs
 
 ## Getting Started
 
